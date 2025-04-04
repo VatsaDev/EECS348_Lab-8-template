@@ -1,4 +1,4 @@
-# EECS348 Lab 8
+# EECS348 Lab 8 - vatsa
 
 This is a template for Lab 8 with continuous integration testing set up in a
 [GitHub Actions workflow](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions).
